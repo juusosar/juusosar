@@ -1,0 +1,112 @@
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Fri Dec 11 11:39:15 2020
+Kesto: 1.030767 min
+Siirrot: 7
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: 
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Fri Dec 11 11:39:49 2020
+Kesto: 1.016669 min
+Siirrot: 2
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: 
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Fri Dec 11 11:42:12 2020
+Kesto: 1.029411 min
+Siirrot: 2
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: H‰viˆ
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Fri Dec 11 11:42:31 2020
+Kesto: 1.017247 min
+Siirrot: 5
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 1
+Tulos: Voitto
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Fri Dec 11 11:43:31 2020
+Kesto: 1.031224100000001 min
+Siirrot: 2
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: H‰viˆ
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Fri Dec 11 11:45:53 2020
+Kesto: 1 min
+Siirrot: 3
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: H‰viˆ
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Fri Dec 11 11:47:30 2020
+Kesto: 2.0022784 min
+Siirrot: 2
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: H‰viˆ
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Sat Dec 12 12:58:28 2020
+Kesto: (0, 0, 14) min
+Siirrot: 2
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: H‰viˆ
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Sat Dec 12 13:13:32 2020
+Kesto: 0.22157607078552247 min
+Siirrot: 8
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: H‰viˆ
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Sat Dec 12 13:14:11 2020
+Kesto: 0.075400 min
+Siirrot: 3
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: H‰viˆ
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Sat Dec 12 13:17:39 2020
+Kesto: 10.70 min
+Siirrot: 5
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: H‰viˆ
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Sat Dec 12 13:19:56 2020
+Kesto: 72.13 min
+Siirrot: 6
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: H‰viˆ
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Sat Dec 12 13:20:26 2020
+Kesto: 0.07 min
+Siirrot: 1
+Kent‰n korkeus: 10
+Kent‰n leveys: 10
+Miinojen lukum‰‰r‰: 10
+Tulos: H‰viˆ
+--------------------------------------------------------------------------
+P‰iv‰m‰‰r‰: Sat Dec 12 13:23:49 2020
+Kesto: 1.25 min
+Siirrot: 3
+Kent‰n korkeus: 20
+Kent‰n leveys: 30
+Miinojen lukum‰‰r‰: 20
+Tulos: H‰viˆ
