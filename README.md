@@ -9,7 +9,7 @@
 
 Soon **MSc in CSE**, specializing in cybersecurity. Dreaming of combining software engineering and cybersecurity as a profession 🛌
 
-I'm working as a SW trainee at Nokia, where I've been working mostly with Python and API development. Currently I use most of my time at work writing my Master's Thesis to get rid of my trainee status :)
+I'm working as a SW trainee at Nokia, where I've been working mostly with Python (developing and maintaining an automation tool for my team and customers) and helping in API development. Currently I use most of my time at work writing my Master's Thesis to get rid of my trainee status :)
 
 <p align="left">
   <h4>:hammer: Side Projects</h4>
