@@ -16,8 +16,8 @@ I'm working as a SW trainee at Nokia, where I've been working mostly with Python
   
   <i>I've recently gotten into my head to start planning too many things to use my freetime in...you can treat this as my todo list for the foreseeable future</i>
   <br>💸  Simple budgeting helper tool using Python. Read bank statement csv and automatically categorize and create a nice looking Excel file from the data. Maybe a web interface for the tool someday.
-  <br>👩‍❤️‍👨 An informational web page for my wedding 
-  <br>🧔  Building a portfolio site to showcase all these cool things I wanna build. And maybe some of my thoughts as well. 
+  <br>👩‍❤️‍👨  An informational web page for my wedding 
+  <br>🧔  Building a portfolio site from scratch as a learning experience to showcase all these cool things I wanna build. And maybe some of my thoughts as well. 
   <br>🧪  Started a homelab project. Planning to start self-hosting these projects and eventual future ones as well :)
 
   During the summer I also go outside to play football and golf ⚽⛳
