@@ -27,8 +27,8 @@ I'm working as a SW trainee at Nokia, where I've been working mostly with Python
 
 <h4>Skills</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,cs,java,docker,mysql&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,js,cs,java,docker,mysql&perline=8)](https://skillicons.dev)
 
 <h4>Learning</h4>
 
-[![Learning](https://skillicons.dev/icons?i=react,fastapi,azure,aws&perline=8)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,express,fastapi,azure,aws&perline=8)](https://skillicons.dev)
