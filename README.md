@@ -1,15 +1,15 @@
 <h1 align="center">Welcome to my profile! 👋</h1>
 
-<p align="center"> I'm <b>Juuso</b>, one part software developer, one part cybersecurity aficionado 
+<p align="center"> I'm <b>Juuso</b>, one part software developer, one part cybersecurity aficionado
   
 <div align="center">
   <a href="https://www.linkedin.com/in/juusosarkela/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 <h3>👩‍💻  About Me</h3>
 
-Soon **MSc in CSE**, specializing in cybersecurity. Dreaming of combining software engineering and cybersecurity as a profession 🛌
+**MSc in CSE**, major in cybersecurity. Dreaming of combining software engineering and cybersecurity as a profession 🛌
 
-I'm working as a SW trainee at Nokia, where I've been working mostly with Python (developing and maintaining an automation tool for my team and customers) and helping in API development. Currently I use most of my time at work writing my Master's Thesis to get rid of my trainee status :)
+Recently joined Reaktor as a Summer Developer, looking to take the next step in my career.
 
 <p align="left">
   <h4>:hammer: Side Projects</h4>
@@ -27,8 +27,8 @@ I'm working as a SW trainee at Nokia, where I've been working mostly with Python
 
 <h4>Skills</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,js,cs,java,docker,mysql&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,react,express,ts,docker,postgres&perline=8)](https://skillicons.dev)
 
 <h4>Learning</h4>
 
-[![Learning](https://skillicons.dev/icons?i=react,express,fastapi,azure,aws&perline=8)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=fastapi,azure,aws&perline=8)](https://skillicons.dev)
