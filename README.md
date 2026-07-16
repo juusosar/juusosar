@@ -31,4 +31,4 @@ Recently joined Reaktor as a Summer Developer, looking to take the next step in 
 
 <h4>Learning</h4>
 
-[![Learning](https://skillicons.dev/icons?i=fastapi,azure,aws&perline=8)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nextjs,fastapi,azure,aws&perline=8)](https://skillicons.dev)
